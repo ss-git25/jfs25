@@ -21,5 +21,9 @@ A] Data structures and algorithms
 java
 -oops
  -Abstaraction
-  -Abstarct=focus on "use" not "how it works"
+  -Abstarct=focus on "use" not "how it works"/DETAILS ABSTRACTED AND USE KNOWN
   -Abstarction=Process of showing essential features with purpose while hiding how it internally works 
+[INTERVIEW QUESTIONS]
+-WHAT IS ABSTRACTION?
+-WHY ARRAYS INDEXING STARTS FROM ZERO?
+{BY MAKING ZERO BASED INDEXING COMPUTATION BECOME FASTER SO IT IS ZERO BASED}
