@@ -1,5 +1,11 @@
 java full stack
 
+*]Maths
+-log x to the base n=total number of times divide by n to given number to make it 1
+  -log 32 to base 2=total number of times requires to divide by 2 to 32 to make it 1
+                   = {(32/2=16),(16/2=8),(8/2=4),(4/2=2),(2/2=1)}=5
+*]GENERAL TERMS
+abstarction=focus on use not on implementation
 A] Data structures and algorithms
 -Data=property/attribute of an entity
 -Data structure=memoery format to store data for it's efficient use.
