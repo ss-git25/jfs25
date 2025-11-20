@@ -8,3 +8,6 @@ A] Data structures and algorithms
   -Asympotic notation=natation representing growth trend of an alorithm (o-worst case,omega-best,theta-avg)
   -time complexity-{constant,logarithmic,linear,Linearithmic nlog n,exponential 2^n,factorial}
   - Big O(x)  analysis -->x=1>log n>root n> n>n log n>n^2 >n![remember graph of complexities]
+[
+-shedule 22 sessions
+]
