@@ -17,3 +17,9 @@ A] Data structures and algorithms
 [
 -shedule 22 sessions
 ]
+
+java
+-oops
+ -Abstaraction
+  -Abstarct=focus on "use" not "how it works"
+  -Abstarction=Process of showing essential features with purpose while hiding how it internally works 
