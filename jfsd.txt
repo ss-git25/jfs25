@@ -1,1 +1,7 @@
+java full stack
 
+A] Data structures and algorithms
+-Data=property/attribute of an entity
+-Data structure=memoery format to store data for it's efficient use.
+-Algorithm=Standared procesdure/steps which are applied on i/p data to get desired o/p.
+-time/space complexity=rate at which timme/space taken by program increses wrt to i/p data size
