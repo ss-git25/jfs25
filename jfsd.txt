@@ -6,4 +6,4 @@ A] Data structures and algorithms
 -Algorithm=Standared procesdure/steps which are applied on i/p data to get desired o/p.
 -time/space complexity=rate at which timme/space taken by program increses wrt to i/p data size
   -time complexity-{constant time,linear time,exponential??}
-  - Big O(x)  analysis -->x=1>log n>root n> n>n log n>n^2 >n!
+  - Big O(x)  analysis -->x=1>log n>root n> n>n log n>n^2 >n![remember graph of complexities]
